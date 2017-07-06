@@ -1,0 +1,27 @@
+{
+  "name": "mat-freemarker",
+  "version": "0.0.1",
+  "description": "freemarker plugin for mat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuping/mat-freemarker.git"
+  },
+  "keywords": [
+    "mat",
+    "freemarker",
+    "freemarkerjs"
+  ],
+  "author": "zhuping.zp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuping/mat-freemarker/issues"
+  },
+  "homepage": "https://github.com/zhuping/mat-freemarker#readme",
+  "dependencies": {
+    "freemarker.js": "^1.3.0"
+  }
+}
